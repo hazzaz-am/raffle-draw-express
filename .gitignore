@@ -2,3 +2,6 @@ node_modules
 src/ticketsCopy.js
 src/routesCopy.js
 src/controllersCopy.js
+src/server copy.js
+src/Ticket copy.js
+src/utils copy.js
